@@ -24,5 +24,11 @@
     },
     "editor.codeActionsOnSave": {
         "source.organizeLinkDefinitions": true
-    }
+    },
+    "window.autoDetectColorScheme": true,
+    "window.commandCenter": true,
+    "explorer.autoRevealExclude": {
+        "": true
+    },
+    "explorer.fileNesting.enabled": true
 }
